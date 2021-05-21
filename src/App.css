@@ -1,0 +1,14 @@
+.App {
+  /* background-color: #0a0a0a; */
+  background-color: #212529;
+  min-height: 100vh;
+  color: #FFF;
+  font-family: 'Poppins', sans-serif;
+}
+
+.App-light {
+  background-color: #ffffff;
+  min-height: 100vh;
+  color: #FFF;
+  font-family: 'Poppins', sans-serif;
+}

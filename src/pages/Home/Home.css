@@ -1,0 +1,19 @@
+.home {
+    overflow: hidden;
+    min-height: 100vh;
+}
+
+.subjects {
+    padding-top: 6%;
+}
+
+.subject__container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    text-align: center;
+    grid-gap: 30px;
+    margin-bottom: 30px;
+    margin-left: 22%;
+    margin-right: 22%;
+    min-height: 190px;
+}
